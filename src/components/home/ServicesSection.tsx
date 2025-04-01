@@ -49,7 +49,7 @@ export function ServicesSection() {
                                 key={item.id}
                             >
                                 <img
-                                    src={`/icons/${item.id}.png`}
+                                    src={`/portfolio-pessoal/icons/${item.id}.png`}
                                     alt="icone"
                                 />
                                 <h1 className="text-xl md:text-2xl text-white font-thin mb-5 md:mb-8">

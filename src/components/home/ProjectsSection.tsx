@@ -153,7 +153,7 @@ export function ProjectsSection() {
                                         className="w-full max-w-3xl rounded-xl shadow-lg overflow-hidden border-2 border-transparent"
                                     >
                                         <img
-                                            src={item.img}
+                                            src={`/portfolio-pessoal/${item.img}`}
                                             alt={item.title}
                                             className="w-full h-64 md:h-80 object-cover"
                                         />

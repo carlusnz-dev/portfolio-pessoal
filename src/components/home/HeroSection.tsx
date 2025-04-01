@@ -83,7 +83,7 @@ export function HeroSection() {
                     {/* Photo */}
                     <div className="w-full flex items-center justify-center px-4 mt-10 lg:mt-0">
                         <img
-                            src="/photo.svg"
+                            src="/portfolio-pessoal/photo.svg"
                             alt="foto"
                             className="w-auto h-full object-cover"
                         />
