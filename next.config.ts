@@ -5,7 +5,6 @@ const nextConfig: NextConfig = {
   basePath: process.env.NODE_ENV === 'production' ? '/portfolio-pessoal' : '',
   assetPrefix: process.env.NODE_ENV === 'production' ? '/portfolio-pessoal' : '',
   images: {
-    path: '/public',
     unoptimized: true
   }
 };
